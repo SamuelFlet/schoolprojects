@@ -1,5 +1,4 @@
 //Samuel Fletcher
-//Student Number: 500884262
 //Date: 2021-04-15
 //Poker Assignment: Rust
 
